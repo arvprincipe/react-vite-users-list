@@ -1,6 +1,6 @@
 # react-vite-users-list
 Listado de usuarios con React - Vite (Prueba técnica)<br>
-<img alt="Curso de React js desde cero y con proyectos" src="public/preview.png" width="500" />
+<img width="100%" alt="Curso de React js desde cero y con proyectos" src="public/preview.png" width="500" />
 
 <div align="left">
 
